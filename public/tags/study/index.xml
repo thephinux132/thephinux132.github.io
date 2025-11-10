@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study on Aaron&#39;s Blog</title>
-    <link>http://localhost:1313/tags/study/</link>
+    <link>https://example.org/tags/study/</link>
     <description>Recent content in Study on Aaron&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Nov 2025 10:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/study/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gemini CLI Configuration</title>
-      <link>http://localhost:1313/content/note/gemini-cli-configuration/</link>
+      <link>https://example.org/content/note/gemini-cli-configuration/</link>
       <pubDate>Sun, 09 Nov 2025 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/content/note/gemini-cli-configuration/</guid>
+      <guid>https://example.org/content/note/gemini-cli-configuration/</guid>
       <description>A note summarizing the configuration for the Gemini CLI. Includes the student workflow prompt and the PowerShell functions used to interact with the CLI.</description>
     </item>
     <item>
       <title>Night Audit Shift Wrap</title>
-      <link>http://localhost:1313/content/daily-log/2025-11-09/</link>
+      <link>https://example.org/content/daily-log/2025-11-09/</link>
       <pubDate>Sun, 09 Nov 2025 07:15:00 -0700</pubDate>
-      <guid>http://localhost:1313/content/daily-log/2025-11-09/</guid>
+      <guid>https://example.org/content/daily-log/2025-11-09/</guid>
       <description>Wrapped up the night audit shift. Reviewed Wireshark labs. Planned a Docker lesson.</description>
     </item>
   </channel>

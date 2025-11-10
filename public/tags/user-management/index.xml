@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>User Management on Aaron&#39;s Blog</title>
-    <link>http://localhost:1313/tags/user-management/</link>
+    <link>https://example.org/tags/user-management/</link>
     <description>Recent content in User Management on Aaron&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Nov 2025 09:30:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/user-management/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/user-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skylight App</title>
-      <link>http://localhost:1313/content/project/skylight-app/</link>
+      <link>https://example.org/content/project/skylight-app/</link>
       <pubDate>Sun, 09 Nov 2025 09:30:00 -0700</pubDate>
-      <guid>http://localhost:1313/content/project/skylight-app/</guid>
+      <guid>https://example.org/content/project/skylight-app/</guid>
       <description>Created a README. Migrated task and user models to asynchronous versions. Updated tabs. Streamlined database setup. Added placeholder tabs and a testing framework.</description>
     </item>
   </channel>
