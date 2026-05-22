@@ -4,7 +4,7 @@ date: 2026-05-01T08:00:00-07:00
 type: project
 tags: [raspberry-pi, kali, security, homelab, n8n, grafana]
 status: active
-summary: Two Raspberry Pi 5s on Tailscale. Pi5Security (Voltron): Kali Linux, n8n, Grafana, Kismet, Fail2Ban. Pi5Desktop: Ollama (Llama 3.2), Cowrie honeypot, Igris Claude-Code Slack bot. Both hardened: SSH key-only, port 2222, Fail2Ban.
+summary: "Two Raspberry Pi 5s on Tailscale. Pi5Security (Voltron): Kali Linux, n8n, Grafana, Kismet, Fail2Ban. Pi5Desktop: Ollama (Llama 3.2), Cowrie honeypot, Igris Claude-Code Slack bot. Both hardened: SSH key-only, port 2222, Fail2Ban."
 reading_time: 2
 ---
 

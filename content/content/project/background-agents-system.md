@@ -4,7 +4,7 @@ date: 2026-04-01T08:00:00-07:00
 type: project
 tags: [bash, systemd, automation, monitoring]
 status: active
-summary: Four persistent background agents auto-started via systemd on WSL2: night_watch (network/security, 5min), storage_watch (disk, 30min), docker_watch (containers, 5min), windows_space_watch (C: drive cleanup, 2h). Terminal banner shows green/red status on login.
+summary: "Four persistent background agents auto-started via systemd on WSL2: night_watch (network/security, 5min), storage_watch (disk, 30min), docker_watch (containers, 5min), windows_space_watch (C: drive cleanup, 2h). Terminal banner shows green/red status on login."
 reading_time: 2
 ---
 

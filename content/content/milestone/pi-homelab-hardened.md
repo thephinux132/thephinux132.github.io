@@ -3,7 +3,7 @@ title: Pi Homelab Fully Hardened
 date: 2026-05-01T08:00:00-07:00
 type: milestone
 tags: [security, raspberry-pi, homelab]
-summary: Both Pi5s hardened: SSH key-only auth, port 2222, Fail2Ban installed and active, Nginx+n8n in production on pi5desktop, Kali station fully operational on pi5security.
+summary: "Both Pi5s hardened: SSH key-only auth, port 2222, Fail2Ban installed and active, Nginx+n8n in production on pi5desktop, Kali station fully operational on pi5security."
 status: done
 reading_time: 2
 ---

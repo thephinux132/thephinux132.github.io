@@ -4,7 +4,7 @@ date: 2026-05-01T08:00:00-07:00
 type: project
 tags: [python, textual, tui, operations]
 status: active
-summary: Python/Textual terminal dashboard — primary ops center. Panels: Overview, Agents, Memory, Network, Activity, Skills, Chat, Bus, Advisor. Advisor panel has drift tracking and LLM-powered synthesis.
+summary: "Python/Textual terminal dashboard — primary ops center. Panels: Overview, Agents, Memory, Network, Activity, Skills, Chat, Bus, Advisor. Advisor panel has drift tracking and LLM-powered synthesis."
 reading_time: 2
 ---
 

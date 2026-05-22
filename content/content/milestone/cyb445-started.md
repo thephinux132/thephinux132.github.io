@@ -3,7 +3,7 @@ title: Started CYB/445 Risk Assessment
 date: 2026-04-21T08:00:00-07:00
 type: milestone
 tags: [school, cybersecurity, risk-assessment, university-of-phoenix]
-summary: Began CYB/445 Risk Assessment — active cybersecurity course at University of Phoenix. Target graduation: June 2026.
+summary: "Began CYB/445 Risk Assessment — active cybersecurity course at University of Phoenix. Target graduation: June 2026."
 status: done
 reading_time: 2
 ---
